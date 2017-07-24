@@ -44,6 +44,10 @@
     {
       "class": "shapeGroup",
       "id": "E2A8F52B-D1AD-47C7-B6DE-7B97DB8E78C6"
+    },
+    {
+      "class": "text",
+      "id": "CDE2F7F3-BAC3-4EE8-8FB4-8778C1DF65ED"
     }
   ],
   "name": "iPhone 7",
